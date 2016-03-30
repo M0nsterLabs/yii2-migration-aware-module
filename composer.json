@@ -1,5 +1,5 @@
 {
-  "name": "indigerd/yii2-migration-aware-module",
+  "name": "templatemonster/yii2-migration-aware-module",
   "description": "Migration aware module extension for Yii2.",
   "keywords": ["yii", "extension", "component", "migration", "module"],
   "type": "yii2-extension",
